@@ -1,2 +1,0 @@
-# Henry
-estudios full stack
